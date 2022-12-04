@@ -13,5 +13,9 @@ hi 2nd file
 >>>>>>> f241a7a (2nd file)
 =======
 hi 2nd file second
+<<<<<<< HEAD
 ii
 >>>>>>> 1a82c5a (dooo)
+=======
+
+>>>>>>> 343a8d1 (changed)
