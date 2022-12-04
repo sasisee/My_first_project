@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/bash
 if [ -f "$1" ]
 then
@@ -6,3 +7,6 @@ else
 echo "$1 file created"
 touch $1
 fi
+=======
+hi 2nd file
+>>>>>>> f241a7a (2nd file)
