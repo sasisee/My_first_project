@@ -1,1 +1,8 @@
-fgassfaa
+#!/bin/bash
+if [ -f "$1" ]
+then
+echo "$1 exist"
+else
+echo "$1 file created"
+touch $1
+fi
